@@ -1,117 +1,20 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
-
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html 
-
-xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
 <head>
-<meta http-equiv="Content-Type" 
-
-content="text/html; charset=gb2312" />
-
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<!--
+.STYLE1 {font-size: 36px}
+-->
 </head>
 
 <body>
 <div align="center">
   <p class="STYLE1">
 
-网址大全 </p>
+    网址大全 
+	  
 </div>
-<p align="center" class="STYLE2">内网 外网</p>
-<table width="4200" 
-
-height="200%" border="1" align="center" bordercolor="#F0F0F0">
-  <tr>
-    <td 
-
-width="260">bilibili</td>
-    <td width="960">&nbsp;</td>
-    <td width="725">&nbsp;</td>
-    
-
-<td width="355">&nbsp;</td>
-    <td width="475">&nbsp;</td>
-    <td width="268">&nbsp;</td>
-   
-
- <td width="268">&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    
-
-<td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
- 
-
- </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    
-
-<td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    
-
-<td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
- 
-
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    
-
-<td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    
-
-<td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
- 
-
-   <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    
-
-<td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
- 
-
- </tr>
-</table>
-<p>&nbsp;</p>
+<p><a href="https://www.bilibili.com/?spm_id_from=444.41.b_696e7465726e6174696f6e616c486561646572.1">bilibili</a> <a href="#">pronhub</a> <a href="https://github.com/">github</a> <a href="https://www.google.com.hk/webhp?hl=zh-CN&amp;sourceid=cnhp">google</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </body>
@@ -119,3 +22,6 @@ width="260">bilibili</td>
 				
 
 			
+
+</body>
+</html>
